@@ -83,7 +83,7 @@ git clone https://github.com/fchavonet/web-flappy_bird_clone.git
 
 > 📌 You can mute the sound by pressing the `s` key on your keyboard.
 
-You can also test the project online by clicking [here](https://fchavonet.github.io/web-flappy_bird_clone/).
+You can also test the project online by clicking [here](https://fchavonet.github.io/creative_coding-flappy_bird_clone/).
 
 <p align="center">
     <picture>
